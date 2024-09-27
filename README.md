@@ -27,3 +27,5 @@ These are the mui components of interest within the modal:
 - Typography
 - TextField
 - Slider (final exercise)
+
+You may use the mui Documentation!
